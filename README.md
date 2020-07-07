@@ -16,4 +16,4 @@ Added "contentstyle", "contentstyle img", and "contentstyle h2" class to the "co
 
 Added "benefit-specs", "benefit-specs img", and "benefit-specs h3" class to the "aside" that contained consolidated specs of 3 previously individual class tags with the same specs
 
-
+Changed order of "content" and "aside" sections to match webpage.

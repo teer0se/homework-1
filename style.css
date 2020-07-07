@@ -75,6 +75,27 @@ p {
     margin-left: 20px;
 }
 
+
+.contentstyle {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+
+.contentstyle img {
+    max-height: 200px;
+}
+
+
+.contentstyle h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -101,28 +122,6 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
-
-.contentstyle {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-
-.contentstyle img {
-    max-height: 200px;
-}
-
-
-.contentstyle h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
 
 .footer {
     padding: 30px;

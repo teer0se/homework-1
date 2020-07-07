@@ -12,8 +12,8 @@ Found that the "Search Engine Optimization" link in the navigation bar wasn't wo
 
 # CSS Edits
 
-Added "contentstyle" class to the "content" that contained consolidated specs of 3 previously individual class tags with the same specs
+Added "contentstyle", "contentstyle img", and "contentstyle h2" class to the "content" that contained consolidated specs of 3 previously individual class tags with the same specs
 
-Added "benefit-specs" class to the "aside" that contained consolidated specs of 3 previously individual class tags with the same specs
+Added "benefit-specs", "benefit-specs img", and "benefit-specs h3" class to the "aside" that contained consolidated specs of 3 previously individual class tags with the same specs
 
 

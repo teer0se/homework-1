@@ -1,2 +1,19 @@
-# homework-1
-Cleaned up Horiseon landing page
+# homework-1 - Refractor
+### Tasked with the overall goal of leaving code cleaner than I found it, I made multiple edits and consolidation efforts to the following HTML and CSS files to allow for easier comprehension and accessability.
+
+# HTML Edits
+Added Favicon and "Welcome to Horiseon" title.
+
+Added "content" and "aside" tags to distinguish portion of webpage.
+
+Added alt tags to the content images to increase accessibility.
+
+Found that the "Search Engine Optimization" link in the navigation bar wasn't working correctly, added ID tag to fix this.
+
+# CSS Edits
+
+Added "contentstyle" class to the "content" that contained consolidated specs of 3 previously individual class tags with the same specs
+
+Added "benefit-specs" class to the "aside" that contained consolidated specs of 3 previously individual class tags with the same specs
+
+

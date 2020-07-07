@@ -1,4 +1,4 @@
-# homework-1 - Refractor
+# homework-1 - Code Refractor
 ### Tasked with the overall goal of leaving code cleaner than I found it, I made multiple edits and consolidation efforts to the following HTML and CSS files to allow for easier comprehension and accessability.
 
 # HTML Edits
